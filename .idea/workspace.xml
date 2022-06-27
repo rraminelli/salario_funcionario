@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd7a8c14-fb6a-4899-a6eb-490a224582fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/annotations/PK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/app/Aplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/app/TesteAbertoFechado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/model/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/model/BonusTrimestral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/model/Coordenador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/model/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/model/GerenteProjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/model/Programador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/professor/PagamementoEmTreinamentoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/professor/PagamentoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/professor/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/professor/ProfessorEmTreinamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/professor/TestePagamentoProfessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/repository/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/repository/FuncionarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/service/CalcularBonusAnualService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/service/CalcularBonusTrimestralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/service/CalcularSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/service/CalcularSalarioService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../../Program Files/Java/jdk-11.0.12/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2B6oWNJcP4K2S144cWgNRUKgKsA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TesteAbertoFechado">
+    <configuration name="Aplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rraminelli.salariofunc.app.Aplicacao" />
+      <module name="salario-funcionario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rraminelli.salariofunc.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteAbertoFechado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rraminelli.salariofunc.app.TesteAbertoFechado" />
+      <module name="salario-funcionario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rraminelli.salariofunc.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestePagamentoProfessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rraminelli.salariofunc.professor.TestePagamentoProfessor" />
+      <module name="salario-funcionario" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rraminelli.salariofunc.professor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteAbertoFechado" />
+        <item itemvalue="Application.TestePagamentoProfessor" />
+        <item itemvalue="Application.Aplicacao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd7a8c14-fb6a-4899-a6eb-490a224582fd" name="Changes" comment="" />
+      <created>1656235928037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656235928037</updated>
+      <workItem from="1656235930638" duration="8514000" />
+      <workItem from="1656352448191" duration="11737000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/service/CalcularSalarioService.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/service/CalcularBonusTrimestralService.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/rraminelli/salariofunc/service/CalcularBonusAnualService.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
